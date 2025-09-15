@@ -9,5 +9,5 @@ jobs:
             echo "Hello World!"
             touch text.txt
             echo "hello mike" > text.txt
-            echo text.txt
+            cat text.txt
     
